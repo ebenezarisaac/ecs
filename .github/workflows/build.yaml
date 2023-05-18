@@ -1,0 +1,6 @@
+name: Publish docker image
+
+on:
+  push:
+    branches:
+      - main
