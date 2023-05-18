@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  AWS_ACCOUNT_NUMBER: 123456789012
+  AWS_ACCOUNT_NUMBER: 062215969713
 
 jobs:
   build:
